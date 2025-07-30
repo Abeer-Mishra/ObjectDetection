@@ -33,7 +33,6 @@ def load_image(source):
 
 # ✅ Set this to a local path or image URL
 image_source = "https://miro.medium.com/v2/resize:fit:1400/1*v0Bm-HQxWtpbQ0Yq463uqw.jpeg" #For Online Image Addresses
-# image_source = "<IMAGE FROM YOUR PC/DISK>" #For Images on the user's PC
 
 # Load the image
 image = load_image(image_source)
